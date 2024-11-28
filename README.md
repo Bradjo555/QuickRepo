@@ -1,3 +1,3 @@
 # QuickRepo
 
-### WIP
+### W.I.P
