@@ -1,4 +1,4 @@
-# QuickRepo
+# QuickRepom
 
 ### W.I.P
 ## UPDATE
